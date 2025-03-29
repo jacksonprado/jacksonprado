@@ -37,3 +37,8 @@ Se você quiser conversar sobre tecnologia, desenvolvimento ou tiver ideias para
 
 
 Obrigado por visitar meu GitHub! 🚀
+
+[![Jackson Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonprado)](https://github.com/jacksonprado/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonprado)](https://github.com/jacksonprado/github-readme-stats)
+
